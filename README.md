@@ -1,4 +1,4 @@
-# cloudnotes
+# Cloudnotes
 
 A new cloud based notekeeping project using flutter,dart and firebase as a backend.
 
