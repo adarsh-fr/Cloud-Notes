@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "807318025401",
+    "project_id": "my-flutter-cloudnotes",
+    "storage_bucket": "my-flutter-cloudnotes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807318025401:android:c701d2818bd1c2cc2d5768",
+        "android_client_info": {
+          "package_name": "ccom.adarshnotes.cloudnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807318025401-1k74gcnjjnd4mdn7545tnv2d1utiv55h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoePCle4499rk0eOtfRrmoe2_UNAkBJZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807318025401-1k74gcnjjnd4mdn7545tnv2d1utiv55h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
